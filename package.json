@@ -1,0 +1,20 @@
+{
+  "name": "weatherappnode",
+  "version": "1.0.0",
+  "description": "Creating real time wheather app using api and nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "api",
+    "weather",
+    "app"
+  ],
+  "author": "Pravin Tidake",
+  "license": "ISC",
+  "dependencies": {
+    "requests": "^0.3.0"
+  }
+}

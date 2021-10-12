@@ -1,0 +1,28 @@
+// api.openweathermap.org/data/2.5/weather?q=Amravati&appid=6fcdb4967dad937189b09c6ec5e3fbff
+
+[
+  {
+    coord: { lon: 77.75, lat: 20.9333 },
+    weather: [ [Object] ],
+    base: 'stations',
+    main: {
+      temp: 297.87,
+      feels_like: 298.7,
+      temp_min: 297.87,
+      temp_max: 297.87,
+      pressure: 1007,
+      humidity: 88,
+      sea_level: 1007,
+      grnd_level: 968
+    },
+    visibility: 10000,
+    wind: { speed: 1.39, deg: 291, gust: 1.51 },
+    clouds: { all: 58 },
+    dt: 1633290094,
+    sys: { country: 'IN', sunrise: 1633308044, sunset: 1633350874 },
+    timezone: 19800,
+    id: 1278718,
+    name: 'Amrāvati',
+    cod: 200
+  }
+]
